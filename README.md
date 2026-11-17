@@ -14,6 +14,7 @@ In this lab, you’ve learned about One Hot and Binary state machines and how to
 ## Name: G10 - Taog Anderson & Joshua Milbourne
 
 ## Summary
+We learned how to implement finite state machines using Verilog in Vivado with two different methods of implementation. We learned the One Hot implementation where each state has its own D-ff and exact direction between states, and the Binary implementation where the states are numbered in binary with only as many D-ffs as it takes to number the states. In binary you must use K-maps to find optimized solutions for moving from state to state.
 
 ## Lab Questions
 
